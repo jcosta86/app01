@@ -7,6 +7,7 @@ authors = ["jcosta86 <jeferson.costa@olist.com>"]
 [tool.poetry.dependencies]
 python = "^3.9"
 Django = "^3.1.7"
+psycopg2-binary = "^2.8.6"
 
 [tool.poetry.dev-dependencies]
 
